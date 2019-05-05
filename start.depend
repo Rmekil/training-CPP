@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1549164920 source:e:\learning cpp\start\start\main.cpp
+	<iostream>
+	"rabie.h"
+	"ahmed.h"
+
+1549165166 e:\learning cpp\start\start\rabie.h
+	<string>
+	"ahmed.h"
+
+1549164368 e:\learning cpp\start\start\ahmed.h
+
+1549165307 source:e:\learning cpp\start\start\ahmed.cpp
+	"ahmed.h"
+	<iostream>
+
+1549165388 source:e:\learning cpp\start\start\rabie.cpp
+	"rabie.h"
+	"ahmed.h"
+	<iostream>
+
