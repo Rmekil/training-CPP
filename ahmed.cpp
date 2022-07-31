@@ -9,6 +9,6 @@ ahmed::ahmed(int m, int d, int y)
   year  = y;
 }
    void ahmed::printDate(){
-        cout<< day << "/" << month << "/" << year << endl;
+        cout<< day << "test/" << month << "/" << ear << endl;
 
    }
